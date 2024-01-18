@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "types": ["datatables.net", /* other types... */],
     "target": "es5",
     "lib": [
       "dom",
